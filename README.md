@@ -1,4 +1,4 @@
-# https://github.com/eiskaltdcpp/eiskaltdcpp remoute control qt client
+https://github.com/eiskaltdcpp/eiskaltdcpp remoute control qt client
 If you use eiskaltdcpp daemon, then for sure you do not have enough remote control like transmission.
 This project solves this problem.
 
