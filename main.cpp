@@ -2,6 +2,4 @@
 int main (void)
         {
             printf ("hw");
-            printf ("hw");
         }
-Попробуем помучать teamcity
