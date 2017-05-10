@@ -1,9 +1,9 @@
 //Не обращаем на это внимание, я просто проверяю возможности TeamCity
 #include <stdio.h>
-
+#include <iostream>
 int main(int argc, char *argv[])
 {
     //printf("hw");
-    printf("В будущем это будет крутой проект, а пока что это hello world.");
+    std::cout << "test message";
 }
 //Удачной тебе сборки TeamCity
